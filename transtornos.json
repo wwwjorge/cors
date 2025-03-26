@@ -1,0 +1,722 @@
+[
+  {
+    "Nome da condição": "Transtorno do Espectro Autista",
+    "Sigla": "TEA",
+    "Severidade/ Classificação": "Nível 1 (baixo suporte)",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Condição caracterizada por dificuldades leves de interação social e comunicação, com impacto limitado em atividades diárias.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno do Espectro Autista",
+    "Sigla": "TEA",
+    "Severidade/ Classificação": "Nível 2 (suporte moderado)",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Condição caracterizada por dificuldades moderadas de interação social, comunicação e comportamentos restritivos, exigindo suporte frequente.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno do Espectro Autista",
+    "Sigla": "TEA",
+    "Severidade/ Classificação": "Nível 3 (alto suporte)",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Condição caracterizada por dificuldades graves de interação social, comunicação limitada (ou não verbal) e alta dependência de suporte.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Déficit de Atenção e Hiperatividade",
+    "Sigla": "TDAH",
+    "Severidade/ Classificação": "Predominância A (atenção)",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Condição marcada por distração, dificuldade de concentração e desorganização, com hiperatividade mínima ou ausente.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Déficit de Atenção e Hiperatividade",
+    "Sigla": "TDAH",
+    "Severidade/ Classificação": "Predominância H (hiperatividade)",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Condição caracterizada por inquietação, impulsividade e dificuldade de permanecer parado ou focado em tarefas que exigem atenção prolongada.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Déficit de Atenção e Hiperatividade",
+    "Sigla": "TDAH",
+    "Severidade/ Classificação": "Predominância AH (ambivalente)",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Combinação de distração significativa e hiperatividade/impulsividade, afetando múltiplos aspectos do funcionamento diário.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Dislexia",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve, moderada, grave",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Transtorno específico de aprendizagem que afeta a leitura, escrita e compreensão de textos.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Disgrafia",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve, moderada, grave",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Transtorno específico de aprendizagem que prejudica a habilidade de escrita, incluindo legibilidade e coordenação motora fina.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Discalculia",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve, moderada, grave",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Transtorno específico de aprendizagem que afeta a habilidade de entender e trabalhar com números e conceitos matemáticos.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Altas Habilidades/Superdotação",
+    "Sigla": "AH/SD",
+    "Severidade/ Classificação": "Intelectual, acadêmico, artístico, cinestésico ou social",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Condição caracterizada por habilidades significativamente acima da média em uma ou mais áreas específicas.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Intelectual",
+    "Sigla": "DI",
+    "Severidade/ Classificação": "Leve, moderada, grave, profunda",
+    "Grupo": "Transtornos Neurodesenvolvimentais",
+    "Definição": "Caracteriza-se por limitações significativas no funcionamento intelectual e no comportamento adaptativo, que impactam as atividades diárias.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Hipersensibilidade Sensorial",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Auditiva",
+    "Grupo": "Transtornos Sensoriais",
+    "Definição": "Sensibilidade aumentada a sons, podendo gerar desconforto ou dor diante de ruídos que para a maioria das pessoas são toleráveis.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Hipersensibilidade Sensorial",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Visual",
+    "Grupo": "Transtornos Sensoriais",
+    "Definição": "Sensibilidade aumentada à luz, causando desconforto ou dor em ambientes muito iluminados ou com luzes piscantes.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Hipersensibilidade Sensorial",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Tátil",
+    "Grupo": "Transtornos Sensoriais",
+    "Definição": "Reação intensa ao toque ou a determinadas texturas, podendo causar desconforto ou evitar contato físico.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Hipersensibilidade Sensorial",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Olfativa",
+    "Grupo": "Transtornos Sensoriais",
+    "Definição": "Sensibilidade elevada a cheiros, resultando em desconforto ou náusea em ambientes com odores fortes ou específicos.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Hipersensibilidade Sensorial",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Gustativa",
+    "Grupo": "Transtornos Sensoriais",
+    "Definição": "Sensibilidade aumentada ao sabor de alimentos, que podem parecer extremamente fortes ou desagradáveis, limitando a aceitação alimentar.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Hipersensibilidade Sensorial",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Multissensorial",
+    "Grupo": "Transtornos Sensoriais",
+    "Definição": "Combinação de sensibilidades aumentadas em mais de um sentido (ex.: auditivo e visual), intensificando o desconforto em ambientes sensorialmente ricos.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Ansiedade Generalizada",
+    "Sigla": "TAG",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Estado persistente de preocupação ou medo que interfere de forma moderada nas atividades do dia a dia.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Ansiedade Generalizada",
+    "Sigla": "TAG",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Preocupação ou medo frequentes que dificultam o funcionamento em diversas áreas da vida, exigindo suporte psicológico.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Ansiedade Generalizada",
+    "Sigla": "TAG",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Preocupação constante e debilitante que impacta severamente a vida cotidiana e pode ser acompanhada de sintomas físicos.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Estresse Pós-Traumático",
+    "Sigla": "TEPT",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Reações emocionais intensas a gatilhos específicos, causando desconforto psicológico moderado.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Estresse Pós-Traumático",
+    "Sigla": "TEPT",
+    "Severidade/ Classificação": "Moderado",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Reações frequentes a gatilhos com impacto considerável no funcionamento diário.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Estresse Pós-Traumático",
+    "Sigla": "TEPT",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Respostas intensas e debilitantes a gatilhos, incluindo flashbacks, isolamento social e evitamento de certas situações.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Depressão",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Episódios de desmotivação, tristeza e dificuldade de concentração, com impacto moderado na rotina.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Depressão",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Períodos prolongados de desânimo, baixa energia e isolamento social que afetam significativamente a vida diária.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Depressão",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Tristeza intensa e persistente acompanhada de pensamentos de inutilidade ou suicidas, com impacto debilitante.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno Bipolar",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Tipo I",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Alternância entre episódios de mania (energia extrema) e depressão severa.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno Bipolar",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Tipo II",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Alternância entre episódios de hipomania (energia elevada) e depressão moderada ou grave.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Fobias Específicas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Medo específico que gera desconforto, mas que pode ser controlado em situações bem definidas.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Fobias Específicas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Medo específico que interfere em diversas áreas da vida, causando evitamento significativo.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Fobias Específicas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Medo extremo e debilitante, com impacto severo no funcionamento social ou profissional.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno Obsessivo-Compulsivo",
+    "Sigla": "TOC",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Pensamentos obsessivos e comportamentos compulsivos que causam desconforto, mas impacto leve na rotina.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno Obsessivo-Compulsivo",
+    "Sigla": "TOC",
+    "Severidade/ Classificação": "Moderado",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Pensamentos obsessivos frequentes e compulsões que interferem de forma significativa na rotina diária.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno Obsessivo-Compulsivo",
+    "Sigla": "TOC",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Obsessões e compulsões severas, ocupando grande parte do dia e prejudicando a vida social, profissional e emocional.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Pânico",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Episódios esporádicos de pânico com impacto limitado na vida cotidiana.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Pânico",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderado",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Crises recorrentes de pânico com evitamento de situações gatilho e impacto significativo na rotina.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno de Pânico",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Ataques de pânico frequentes e debilitantes, acompanhados de medo extremo e isolamento social.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno Opositivo-Desafiador",
+    "Sigla": "TOD",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Padrão persistente de comportamento desafiador e hostil, com impacto moderado nas relações interpessoais e na rotina diária.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno Opositivo-Desafiador",
+    "Sigla": "TOD",
+    "Severidade/ Classificação": "Moderado",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Comportamentos opositores e irritáveis frequentes, com impacto significativo nas interações sociais e no ambiente familiar/escolar.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtorno Opositivo-Desafiador",
+    "Sigla": "TOD",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Transtornos de Saúde Mental e Emocional",
+    "Definição": "Comportamento persistente e severo de oposição e hostilidade, frequentemente acompanhado de explosões emocionais intensas.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Paralisia Cerebral",
+    "Sigla": "PC",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Condição neurológica que causa dificuldades motoras leves, permitindo independência parcial com adaptações.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Paralisia Cerebral",
+    "Sigla": "PC",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Afeta significativamente a coordenação motora, podendo exigir o uso de dispositivos auxiliares, como muletas ou cadeira de rodas.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Paralisia Cerebral",
+    "Sigla": "PC",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Limitações motoras severas, com dependência total de dispositivos ou de suporte humano para locomoção e atividades diárias.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Motora",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Dificuldades motoras leves, como problemas de equilíbrio ou força reduzida, que podem ser gerenciadas com pequenas adaptações.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Motora",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Limitações motoras que afetam a mobilidade e as atividades diárias, exigindo uso de equipamentos, como próteses ou andadores.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Motora",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Perda total ou significativa de mobilidade em membros, necessitando de cadeira de rodas ou suporte constante.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Doenças Neuromusculares",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Condições como distrofia muscular leve que causam perda de força e coordenação de forma gradual e limitada.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Doenças Neuromusculares",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Distrofias musculares ou condições que reduzem significativamente a força e a mobilidade, mas permitem alguma independência.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Doenças Neuromusculares",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Condições que causam perda severa de força muscular, geralmente levando à imobilidade e dependência total de suporte.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Condições Reumáticas/Ortopédicas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Problemas como artrite leve ou escoliose que causam desconforto ocasional ou limitação mínima.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Condições Reumáticas/Ortopédicas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Dores frequentes ou limitação significativa da mobilidade, exigindo adaptações em atividades diárias.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Condições Reumáticas/Ortopédicas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Dores intensas e limitações severas, podendo impedir a mobilidade sem assistência médica ou dispositivos específicos.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Amputação",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Membro único",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Perda de um membro, exigindo adaptação para atividades diárias, com ou sem o uso de próteses.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Amputação",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Múltiplos membros",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Perda de mais de um membro, geralmente causando dependência parcial ou total de dispositivos ou suporte humano.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Lesão Medular",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Completa (paraplegia)",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Perda total de sensibilidade e mobilidade abaixo do nível da lesão, com impacto severo na independência.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Lesão Medular",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Completa (tetraplegia)",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Perda total de sensibilidade e mobilidade em todos os membros, com dependência total de suporte.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Lesão Medular",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Incompleta",
+    "Grupo": "Limitações Físicas e Mobilidade Reduzida",
+    "Definição": "Mobilidade parcial preservada abaixo do nível da lesão, permitindo alguma independência com dispositivos.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Diabetes Mellitus",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Tipo 1",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Doença autoimune caracterizada pela incapacidade do pâncreas de produzir insulina, exigindo monitoramento constante e insulina exógena.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Diabetes Mellitus",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Tipo 2",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Condição metabólica causada por resistência à insulina, frequentemente associada a estilo de vida e/ou predisposição genética.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Epilepsia",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Controlada",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Condição neurológica caracterizada por crises convulsivas esporádicas, controladas por medicamentos.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Epilepsia",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Parcialmente controlada",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Crises convulsivas recorrentes apesar do uso de medicamentos, exigindo monitoramento próximo.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Epilepsia",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Não controlada",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Crises frequentes e imprevisíveis que impactam severamente a qualidade de vida e segurança.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Asma",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Doença respiratória caracterizada por episódios ocasionais de dificuldade respiratória, geralmente controlados com medicação esporádica.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Asma",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Episódios frequentes de dificuldade respiratória, exigindo tratamento contínuo com broncodilatadores ou corticoides.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Asma",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Crises respiratórias severas e recorrentes que requerem intervenção médica urgente e monitoramento constante.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Alergias Severas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Alimentares",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Reações imunológicas graves a alimentos específicos, como nozes ou frutos do mar, podendo incluir anafilaxia.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Alergias Severas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Medicamentosas",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Reações graves a medicamentos, como antibióticos, exigindo atenção cuidadosa em tratamentos médicos.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Alergias Severas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Ambientais",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Reações severas a pólen, ácaros ou outros alérgenos, causando sintomas respiratórios ou dermatológicos intensos.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Doença Celíaca",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Reação autoimune ao glúten com sintomas gastrointestinais leves, controlados por dieta rigorosa.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Doença Celíaca",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Sintomas gastrointestinais moderados e dificuldade em manter dieta rigorosa, afetando a saúde geral.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Doença Celíaca",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Complicações severas devido à exposição ao glúten, incluindo má absorção de nutrientes e impactos sistêmicos.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Doenças Cardíacas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Condições como hipertensão controlada, com impacto mínimo no funcionamento diário.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Doenças Cardíacas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Doenças cardíacas que limitam a realização de atividades físicas intensas, exigindo cuidados regulares.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Doenças Cardíacas",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Condições cardíacas severas que comprometem significativamente a qualidade de vida e exigem intervenção médica contínua.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Insuficiência Renal",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Comprometimento moderado da função renal, geralmente gerenciado com medicação e dieta.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Insuficiência Renal",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Grave",
+    "Grupo": "Condições Médicas Crônicas e Transtornos Associados",
+    "Definição": "Perda severa da função renal, frequentemente necessitando de diálise ou transplante.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Visual",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Baixa visão",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Condição em que a visão é reduzida, mesmo com o uso de correção óptica, dificultando atividades cotidianas.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Visual",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Cegueira parcial",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Perda significativa de visão em um ou ambos os olhos, mas com alguma percepção de luz ou formas.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Visual",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Cegueira total",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Ausência completa de percepção visual, exigindo uso de outros sentidos para a interação com o ambiente.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Auditiva",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Leve",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Perda auditiva que afeta sons baixos ou conversas em ambientes ruidosos, mas permite comunicação com adaptações simples.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Auditiva",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Moderada",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Perda de audição que requer o uso de dispositivos auditivos e adaptação no ambiente para comunicação eficaz.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Auditiva",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Severa",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Perda auditiva que limita gravemente a comunicação verbal, mesmo com dispositivos auxiliares, exigindo outras formas de comunicação.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Deficiência Auditiva",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Profunda",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Perda total de audição, resultando em dependência de linguagem de sinais ou leitura labial para comunicação.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtornos da Fala",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Dislalia",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Alteração na articulação de palavras, dificultando a comunicação verbal de forma leve a moderada.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtornos da Fala",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Disartria",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Alteração na produção da fala devido a problemas neurológicos, afetando ritmo e clareza.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Transtornos da Fala",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Apraxia",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Dificuldade em planejar e coordenar os movimentos necessários para a fala, mesmo com músculos intactos.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtornos da Linguagem",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Afasia",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Perda parcial ou total da capacidade de compreender ou expressar linguagem, geralmente após lesões neurológicas.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Transtornos da Linguagem",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Transtorno Fonológico",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Dificuldade no desenvolvimento da linguagem, com troca, omissão ou distorção de sons nas palavras.",
+    "Tipo": "Transitório/Crônico"
+  },
+  {
+    "Nome da condição": "Surdocegueira",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Parcial",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Combinação de perda auditiva e visual, com algum nível de funcionalidade sensorial preservada.",
+    "Tipo": "Crônico"
+  },
+  {
+    "Nome da condição": "Surdocegueira",
+    "Sigla": "-",
+    "Severidade/ Classificação": "Total",
+    "Grupo": "Deficiências Visuais, Auditivas e Fonoaudiológicas",
+    "Definição": "Perda total de visão e audição, exigindo métodos específicos de comunicação e interação.",
+    "Tipo": "Crônico"
+  }
+]
